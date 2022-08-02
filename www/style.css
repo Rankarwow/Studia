@@ -1,0 +1,18 @@
+.foodlogo {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    object-position: 20 0;
+}
+.foodimage {
+    margin-top: 10px;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.frontimage {
+    margin-top: 10px;
+    width: 100%;
+    max-height: 410px;
+    object-fit: cover;
+}
